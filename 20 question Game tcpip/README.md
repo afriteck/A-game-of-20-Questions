@@ -15,12 +15,6 @@
 
 
 
-## Purpose:                                     
-- Trying to get us to know how networking works using TCPIP network protocols by making a 2 player game that one can play over a network by sharing their IP addresses and port number.     
-
-
-
-
 ## Result:                                      
 - Connects to the server using and IP address and a specified port using command line arguement. When connected,
 it's connected, the guesser ask bunch of question not more than 20 questions though to get idea of what the 
